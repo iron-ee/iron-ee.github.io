@@ -35788,7 +35788,7 @@ this.Pr(0)},
 F:function(a,b){var s=this,r=null,q=t.w,p=b.H(q).f.a.a,o=b.H(q).f,n=t.p
 return M.bK(r,T.h0(C.b_,H.a([new T.c7(C.iQ,new T.cM(C.Z,r,r,T.cj(H.a([s.wj(p,"To be a world class platform delivering high quality sound mastering"),new T.an(r,b.H(q).f.a.b*0.05,r,r),s.wj(p,"We have mastering in a specialized area through deep learning technology."),s.wj(p,"We provide a platform that anyone can use easily and conveniently."),new T.an(r,b.H(q).f.a.b*0.07,r,r),s.Ye(p)],n),C.x,r,C.ba,C.t),r),r)],n),C.aX),r,r,r,o.a.b*0.8,r,r,p)},
 Ye:function(a){var s=null,r=U.aio(s,s,P.ag(C.c.ag(127.5),0,0,0),s,s,s,s,s,s,s,s,s,new X.cX(K.lf(30),C.r),s,s,s,s,s),q=this.C2(a)
-return new T.an(500,100,U.mz(T.e6(H.a([q,L.b8("Into  Stella",a>465?A.a_(s,s,C.f,s,s,s,s,s,"ZCOOL",s,s,40,s,C.k,s,s,!0,s,s,s,s,s,s,s):A.a_(s,s,C.f,s,s,s,s,s,"ZCOOL",s,s,34,s,C.k,s,s,!0,s,s,s,s,s,s,s),s,s),this.C2(a)],t.p),C.x,C.ba,C.t),new R.a5u(),r),s)},
+return new T.an(500,100,U.mz(T.e6(H.a([q,L.b8("Into Stella",a>465?A.a_(s,s,C.f,s,s,s,s,s,"ZCOOL",s,s,40,s,C.k,s,s,!0,s,s,s,s,s,s,s):A.a_(s,s,C.f,s,s,s,s,s,"ZCOOL",s,s,34,s,C.k,s,s,!0,s,s,s,s,s,s,s),s,s),this.C2(a)],t.p),C.x,C.ba,C.t),new R.a5u(),r),s)},
 C2:function(a){var s=this.d
 s.toString
 return K.l9(s,new R.a5s(this,a),null)},
