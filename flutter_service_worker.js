@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "52d7869ab068b99643e5ad4115034d1c",
+  "assets/AssetManifest.json": "9b78ddae8748d8d2a09ab161f6dd512f",
 "assets/assets/home/home_body_back_1.jpg": "368574a0dc48a11d3a10142856bc6c7a",
 "assets/assets/home/home_body_comma_back.jpg": "f6a51af9c5db54b652d9053f210d7f22",
 "assets/assets/home/home_body_intro_scrollDown.gif": "808204a98748dd88351daf3e17a1a2ff",
@@ -22,10 +22,11 @@ const RESOURCES = {
 "assets/font/Akronim-Regular.ttf": "08683c515d3dc8b6f4dec817c8f8d006",
 "assets/font/DancingScript-Regular.ttf": "c4434ab21f7144bbcf88c9a35ae3f075",
 "assets/font/Festive-Regular.ttf": "6008937a2510d28c5afa2de91840b551",
+"assets/font/OpenSans-Regular.ttf": "ebe0fbcd13a1e4b1cea24fa992f28fbb",
 "assets/font/Pacifico-Regular.ttf": "9b94499ccea3bd82b24cb210733c4b5e",
 "assets/font/VarelaRound-Regular.ttf": "159cb67fc3bc762a8c3232f0a0c6728e",
 "assets/font/ZCOOLKuaiLe-Regular.ttf": "1b80e6af9a598372beca579f0ac68dc7",
-"assets/FontManifest.json": "796192b23b1300dda90ba42b2a5d56e3",
+"assets/FontManifest.json": "dbac3b4c647f06c8a9b6a4727e580ac1",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "fab7c0019083694590acf0251f9ecb3a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -35,9 +36,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "bb1a48f5a5473855e6fd5d6efeb5390c",
-"/": "bb1a48f5a5473855e6fd5d6efeb5390c",
-"main.dart.js": "cc2f95b52322a687f13c6b795be7456b",
+"index.html": "e5659d8c86d1b1447bcd4c90fbdda981",
+"/": "e5659d8c86d1b1447bcd4c90fbdda981",
+"main.dart.js": "09b41fc20889532462eedbde3c926fe5",
 "manifest.json": "b9ae5adddaba815bdbff5e9d1570f28e",
 "version.json": "a2cb99beb6ea3eaab8f43acbc04235ba"
 };
