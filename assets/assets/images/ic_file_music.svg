@@ -1,0 +1,36 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="music-file_3914681" clip-path="url(#clip0_137_3521)">
+<g id="g576">
+<g id="g578">
+<g id="Clip path group">
+<mask id="mask0_137_3521" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<g id="clipPath584">
+<path id="path582" d="M0 0H24V24H0V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_137_3521)">
+<g id="g580">
+<g id="g586">
+<path id="path588" d="M21 23H3V3C3 1.896 3.896 0.999997 5 0.999997H14L21 8V23Z" stroke="#C4BFFA" stroke-width="2.66667" stroke-miterlimit="10"/>
+</g>
+<g id="g590">
+<path id="path592" d="M14 1V8H21" stroke="#C4BFFA" stroke-width="2.66667" stroke-miterlimit="10"/>
+</g>
+<g id="g594">
+<path id="path596" d="M8 17.5C8 18.881 9.119 20 10.5 20C11.881 20 13 18.881 13 17.5C13 16.119 11.881 15 10.5 15C9.119 15 8 16.119 8 17.5Z" fill="#C4BFFA"/>
+</g>
+<g id="g598">
+<path id="path600" d="M15 12H13C12.447 12 12 12.447 12 13V17.5" stroke="#C4BFFA" stroke-width="2.66667" stroke-miterlimit="10"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_137_3521">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>
